@@ -11,4 +11,13 @@ I've know about "GitHub":http://github.com since, well, they
 started. I didn't follow them or used them or anything, but now
 with pages.github.com, I felt compelled to try.
 
-At first it was an interesting test for static pages, then I read their 'simple, blog aware, static site generator' and am currently testing it.
+At first it was an interesting test for static pages, then I read
+their 'simple, blog aware, static site generator' and am currently
+testing it.
+
+I'm sold. 
+
+Now, I'm sold because Git allows me to use my, admittedly,
+terminal, not-windows-based workflow and just keep working. It
+took very little to do a preliminary site and I get to keep using
+git! 
